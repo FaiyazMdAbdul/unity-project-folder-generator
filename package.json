@@ -1,0 +1,24 @@
+{
+  "name": "com.faiyazmdabdul.unity-project-folder-generator",
+  "version": "1.0.0",
+  "displayName": "Unity Project Folder Generator",
+  "description": "Automatically generates a standard Unity project folder structure with one click. Creates organized folders for scripts, art, audio, animations, scenes, prefabs, and more.",
+  "unity": "2019.4",
+  "keywords": [
+    "folder",
+    "structure",
+    "organization",
+    "project setup",
+    "editor tool",
+    "workflow"
+  ],
+  "author": {
+    "name": "FaiyazMdAbdul",
+    "url": "https://github.com/FaiyazMdAbdul"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaiyazMdAbdul/unity-project-folder-generator.git"
+  },
+  "license": "MIT"
+}
